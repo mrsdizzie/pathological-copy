@@ -1,0 +1,212 @@
+
+UTF-8 encoded sample plain-text file
+
+
+Markus Kuhn [maks kun] <http://www.cl.cam.ac.uk/~mgk25/> ¡X 2002-07-25 CC BY
+
+
+The ASCII compatible UTF-8 encoding used in this plain-text file
+is defined in Unicode, ISO 10646-1, and RFC 2279.
+
+
+Using Unicode/UTF-8, you can write in emails and source code things such as
+
+Mathematics and sciences:
+
+  ¡í Eda = Q,  n ¡÷ ¡Û,  f(i) =  g(i),      ¢z¢w¢w¢w¢w¢w¢{
+                                            ¢xa+b 
+  x: x = x, £\  £] = (£\  £]),    ¢x¢w¢w¢w¢w¢w 
+                                             c   
+            ,                          
+                                             ¡Û     
+  ¡æ < a ¡Ú b ¡Ý c  d    (A  B),            
+                                             a-b
+  2H + O  2HO, R = 4.7 k£[,  200 mm     i=1    
+
+Linguistics and dictionaries:
+
+  i ntnnl fntk sosien
+  Y [psiln], Yen [jn], Yoga [jog]
+
+APL:
+
+  ((VV)=V)/V¡ö,V    ¡ö¡÷
+
+Nicer typography in plain text files:
+
+  ùÝ¢¤¢¤¢¤¢¤¢¤¢¤¢¤¢¤¢¤¢¤¢¤¢¤¢¤¢¤¢¤¢¤¢¤¢¤¢¤¢¤¢¤¢¤¢¤¢¤¢¤¢¤¢¤¢¤¢¤¢¤¢¤¢¤¢¤¢¤¢¤¢¤¢¤¢¤¢¤¢¤¢¤¢¤ùß
+  ùø                                          ùø
+  ùø    ¡¥single¡¦ and ¡§double¡¨ quotes         ùø
+  ùø                                          ùø
+  ùø    Curly apostrophes: ¡§We¡¦ve been here¡¨ ùø
+  ùø                                          ùø
+  ùø    Latin-1 apostrophe and accents: '`  ùø
+  ùø                                          ùø
+  ùø    deutsche¡¥ Anfhrungszeichen¡§       ùø
+  ùø                                          ùø
+  ùø    , , , , 3¡V4, ¡X, 5/+5, , ¡K      ùø
+  ùø                                          ùø
+  ùø    ASCII safety test: 1lI|, 0OD, 8B     ùø
+  ùø                      ¢~¢w¢w¢w¢w¢w¢w¢w¢w¢w¢¡         ùø
+  ùø    the euro symbol: ¢x 14.95 £á ¢x         ùø
+  ùø                      ¢¢¢w¢w¢w¢w¢w¢w¢w¢w¢w¢£         ùø
+  ùã¢¤¢¤¢¤¢¤¢¤¢¤¢¤¢¤¢¤¢¤¢¤¢¤¢¤¢¤¢¤¢¤¢¤¢¤¢¤¢¤¢¤¢¤¢¤¢¤¢¤¢¤¢¤¢¤¢¤¢¤¢¤¢¤¢¤¢¤¢¤¢¤¢¤¢¤¢¤¢¤¢¤¢¤ùå
+
+Combining characters:
+
+  STARG£NTE SG-1, a = v = r, a ¡æ b
+
+Greek (in Polytonic):
+
+  The Greek anthem:
+
+  £U £^£h£s£l£a£s £k £n£h £e£r£b
+  £n£j £m£k£\£c£d£j £n£h £n£l£j£g£`£l,
+  £m £^£h£s£l£a£s £k £n£h £r£b
+  £k£j £g £]£\ £g£`£n£l£`£d £n £^.
+
+  £D£k £n £e£e£e£\£f£\ £]£^£\£f£g£h£b
+  £n£h £H£f£f£h£s£h £n £`£l
+  £e£\ £m£h £k£l£n£\ £h£_£l£`£d£s£g£h£b
+  £q£\£l£`,  £q£\£l£`, £H£f£`£o£c£`£l£d!
+
+  From a speech of Demosthenes in the 4th century BC:
+
+  £R£q £n£\£n £k£\£l£m£n£\£n£\ £g£j£d £^£d£^£h£m£e£`£d£h,  £h£_£l£` £D£c£b£h£\£j£d,
+  £n£\£h £n £` £n £k£l£^£g£\£n£\ £k£j£]£f£r£s £e£\ £n£\£h £k£l £n£j
+  £f£^£j£o £j £e£j£s £n£j £g£h £^£l £f£^£j£o £k£`£l £n£j
+  £n£d£g£s£l£m£\£m£c£\£d £X£f£d£k£k£j£h £l £^£d£^£h£j£g£h£j£o, £n £_ £k£l£^£g£\£n
+  £` £n£j£n£j £k£l£j£e£j£h£n£\,  £m£c £k£s £g £k£`£d£m£g£`£c £\£n£j
+  £k£l£n£`£l£j£h £e£\£e £m£e£r£\£m£c£\£d £_£j£h. £j£_£h £j£h £f£f£j £g£j£d £_£j£e£j£m£d£h
+  £j £n £n£j£d£\£n£\ £f£^£j£h£n£`  £n£h £k£c£`£m£d£h, £k£`£l  £]£j£o£f£`£`£m£c£\£d,
+  £j£q £n£h £j£m£\£h £k£\£l£d£m£n£h£n£` £g£h £g£\£l£n£h£`£d£h. £^ £_, £n£d £g£h
+  £k£j£n £i£h £n £k£f£`£d £e£\ £n £\£n £q£`£d£h £m£p£\£f £e£\ £X£f£d£k£k£j£h
+  £n£d£g£s£l£m£\£m£c£\£d, £e£\ £g£f £e£l£d£] £j£_£\ £k £g£j £^£l, £j £k£f£\£d
+  £^£^£j£h£`£h £n£\£n £g£p£n£`£l£\ £h£h £g£h£n£j£d £k£k£`£d£m£g£\£d £n£j£c £e£\£h£h
+  £k£l£j£f£\£]£`£h £g£h £`£h£\£d £n£h £k£l£n£b£h, £k£s £n£j £m£o£g£g£q£j£o
+  £m£m£j£g£`£h. £h £^£l £n£j£n£j £]£`£]£\£s £k£l£i, £n£n£` £e£\ £k£`£l £n£j
+  £n£h£\ £n£d£g£s£l£m£`£n£\ £n£d £e£\ £h £n£l£k£j£h £i£m£n£\£d £m£e£j£k£`£h £k£l£h £_
+  £n£h £l£q£h £l£c £k£j£c£m£c£\£d, £g£n£\£d£j£h £^£j£g£\£d £k£`£l £n
+  £n£`£f£`£o£n £h£n£d£h£j£h £k£j£d£`£m£c£\£d £f£^£j£h.
+
+  £G£b£g£j£m£c£h£j£o, £F £R£f£o£h£c£d£\£e
+
+Georgian:
+
+  From a Unicode conference invitation:
+
+      Unicode-  
+   ,   10-12 ,
+  . , .    
+        Unicode-,
+    , Unicode- 
+   ,   , ,
+       .
+
+Russian:
+
+  From a Unicode conference invitation:
+
+        
+  Unicode,   10-12  1997     .
+          
+    Unicode,   ,  
+   Unicode      
+  , ,     .
+
+Thai (UCS Level 2):
+
+  Excerpt from a poetry on The Romance of The Three Kingdoms (a Chinese
+  classic 'San Gua'):
+
+  [----------------------------|------------------------]
+       
+         
+               
+           
+          
+            
+              
+              
+
+  (The above is a two-column text. If combining characters are handled
+  correctly, the lines of the second column should be aligned with the
+  | character above.)
+
+Ethiopian:
+
+  Proverbs in the Amharic language:
+
+     
+     
+     
+       
+     
+     
+   
+      
+     
+       
+      
+       
+     
+       
+       
+     
+      
+     
+
+Runes:
+
+             
+
+  (Old English, which transcribed into Latin reads 'He cwaeth that he
+  bude thaem lande northweardum with tha Westsae.' and means 'He said
+  that he lived in the northern land near the Western Sea.')
+
+Braille:
+
+      
+
+           
+          
+         
+         
+          
+       
+
+         
+
+            
+         
+          
+          
+          
+         
+           
+         
+        
+
+  (The first couple of paragraphs of "A Christmas Carol" by Dickens)
+
+Compact font selection example text:
+
+  ABCDEFGHIJKLMNOPQRSTUVWXYZ /0123456789
+  abcdefghijklmnopqrstuvwxyz 
+  ¡V¡X¡¥¡§¡¨¡K£á £D£E£F£G£[£\£]£^£_£s 
+  ¡å¡Ý¡Û ¡ô¡ù ¢{¢qùÝùì¡ð 
+
+Greetings in various languages:
+
+  Hello world, £M£\£f£b£g£l£\ £e£m£g£`, 
+
+Box drawing alignment tests:                                          ¢i
+                                                                      ¢p
+  ùÝ¢¤¢¤ùÞ¢¤¢¤ùß  ¢z¢w¢w¢s¢w¢w¢{  ¢~¢w¢w¢s¢w¢w¢¡  ¢~¢w¢w¢s¢w¢w¢¡           ¢z¢{    ¢o ¢¬¢­¢¬¢­¢®¢®¢®
+  ùø¢z¢wùö¢w¢{ùø  ¢xùÝ¢¤ùí¢¤ùß¢x  ¢xùæ¢¤¢¦¢¤ùè¢x  ¢xùï¢w¢wùñ¢x  ¢z¢w¢w¢{    ¢q¡Z¢q     ¢n ¢­¢¬¢­¢¬¢®¢®¢®
+  ùø¢x¢­ ¢¬¢xùø  ¢xùø   ùø¢x  ¢x¢x ¢x ¢x¢x  ¢xùø  ùø¢x  ¢x  ¢x         ¢|¢}    ¢m ¢¬¢­¢¬¢­¢®¢®¢®
+  ùà¢§ ¢® ¢¥ùâ  ¢uùô   ùò¢t  ¢u¢q¢w¢q¢w¢q¢t  ¢uùó¢w¢wùó¢t  ¢q       ¢z¢{    ¢l ¢­¢¬¢­¢¬¢®¢®¢®
+  ùø¢x¢¬ ¢­¢xùø  ¢xùø   ùø¢x  ¢x¢x ¢x ¢x¢x  ¢xùø  ùø¢x  ¢x  ¢x  ùþùþ¢i¢i         ¢k
+  ùø¢|¢wùð¢w¢}ùø  ¢xùã¢¤ùç¢¤ùå¢x  ¢xùì¢¤¢¦¢¤ùî¢x  ¢xùõ¢w¢wù÷¢x  ¢|¢w¢w¢}  ùþùþ¢i¢i         ¢j
+  ùã¢¤¢¤ùä¢¤¢¤ùå  ¢|¢w¢w¢r¢w¢w¢}  ¢¢¢w¢w¢r¢w¢w¢£  ¢¢¢w¢w¢r¢w¢w¢£    ¢e   ¢|¢}     ¢b¢c¢d¢e¢f¢g¢h¢i
+                                               ¢e
